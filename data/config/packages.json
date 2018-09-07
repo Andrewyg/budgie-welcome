@@ -295,7 +295,7 @@
       "packages" : ["firefox"]
     },
     "chromium" : {
-      "packages" : ["chromium-browser"]
+      "packages" : ["snap:chromium"]
     },
     "chrome" : {
       "packages" : ["google-chrome-stable"],
@@ -389,6 +389,6 @@
         "bionic" : ["ppa:ubuntubudgie/backports"]
         }
       }
-      
+
   }
 }

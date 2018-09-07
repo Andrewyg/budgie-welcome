@@ -422,12 +422,12 @@ class AppView(WebKit2.WebView):
                     config = json.load(file)
 
                 attrib = None
-                
+
                 for item in config:
                     if "panel-attrib" in item:
                         attrib = item["panel-attrib"]
                         continue
-                        
+
                     schema = item["SCHEMA"]
                     values = item["VALUES"]
 
@@ -439,7 +439,7 @@ class AppView(WebKit2.WebView):
                         else:
                             gsettings.set_string(key, value)
 
-                if attrib:                    
+                if attrib:
                     self._set_panel_key('enable-shadow', attrib['enable-shadow'])
                     self._set_panel_key('size', attrib['size'])
                     self._set_panel_key('transparency', attrib['transparency'])
@@ -731,6 +731,17 @@ class PackageManager(Thread):
         return installed
 
     def hasInstalled(self, current_page, code):
+
+        # we deal with snaps or deb based installs from the repos/ppas
+        # snaps are packages prefixed with snap:
+        if len(code.split('snap:')) == 2:
+            found = False
+
+            snapname = code.split('snap:')[1]
+
+
+            return found
+
         if not current_page:
             return self.__isPackageInstalled(code)
 
