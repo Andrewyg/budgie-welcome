@@ -1,0 +1,113 @@
+# Translators:
+# zk, 2017
+# Wong Fan <wongfan701@gmail.com>, 2017
+# Hanung Prihutomo <linux4hanung@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Hanung Prihutomo <linux4hanung@gmail.com>, 2018\n"
+"Language-Team: Indonesian (Indonesia) (https://www.transifex.com/ubuntu-budgie/teams/72251/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:12
+msgid "Main Menu"
+msgstr "Menu Utama"
+
+#: index.html:22
+msgid "Choose an option to discover your new operating system."
+msgstr "Pilih cara untuk lebih mengenal sistem operasi Anda."
+
+#: index.html:33
+msgid "Introduction"
+msgstr "Perkenalan"
+
+#: index.html:39
+msgid "Features"
+msgstr "Fitur"
+
+#: index.html:45
+msgid "Getting Started"
+msgstr "Mulai"
+
+#: index.html:51
+msgid "Installation Help"
+msgstr "Bantuan Pemasangan"
+
+#: index.html57, 109
+msgid "Recommendations"
+msgstr "Rekomendasi"
+
+#: index.html:74
+msgid "Online Store"
+msgstr "Toko Online"
+
+#: index.html:80
+msgid "Community"
+msgstr "Komunitas"
+
+#: index.html:86
+msgid "Get Involved"
+msgstr "Ikut Terlibat"
+
+#: index.html:92
+msgid "Donate"
+msgstr "Donasi"
+
+#: index.html:101
+msgid "Install Now"
+msgstr "Pasang Sekarang"
+
+#: index.html:106
+msgid "Install Software"
+msgstr "Pasang Perangkat Lunak"
+
+#: index.html:108
+msgid "Budgie Applets"
+msgstr "Applet Budgie"
+
+#: index.html:110
+msgid "Software Center"
+msgstr "Pusat Perangkat Lunak"
+
+#: index.html:111
+msgid "Snap Apps"
+msgstr "Apl Snap"
+
+#: index.html:112
+msgid "Flatpak Apps"
+msgstr "Apl Flatpak"
+
+#: index.html:118
+msgid "Default Settings"
+msgstr "Pengaturan Bawaan"
+
+#: index.html:128
+msgid "Get Support:"
+msgstr "Dapatkan Dukungan:"
+
+#: index.html:140
+msgid "G+ Community"
+msgstr "Komunitas G+"
+
+#: index.html:143
+msgid "G+ Page"
+msgstr "Halaman G+"
+
+#: index.html:152
+msgid "Facebook Group"
+msgstr "Grup Facebook"
+
+#: index.html:155
+msgid "Facebook Page"
+msgstr "Halaman Facebook"
+
+#: index.html:163
+msgid "Reddit"
+msgstr "Reddit"

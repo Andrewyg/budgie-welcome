@@ -31,6 +31,12 @@ msgid ""
 "secure, and better supported than operating systems that come pre-installed "
 "on most home computer hardware today."
 msgstr ""
+"<span name=\"distro-name\"></span> merupakan sistem pengoperasian komputer "
+"yang modern, dengan antaramuka pengguna yang menarik dan mudah difahami. "
+"Pengurus kemaskini bukan sahaja mengurus sistem pengoperasian sahaja, tetapi"
+" semua aplikasi terpasang telah dikemaskini dengan keluaran semasa. Sistem "
+"pengoperasian lebih selamat, dan lebih sokongan berbanding sistem "
+"pengoperasian jenis dipra-pasang pada kebanyakan komputer rumah masa kini."
 
 #: features.html:29
 msgid "Pre-Configured Yet Flexible"

@@ -38,7 +38,7 @@ msgstr "Membiasakan Diri"
 msgid "Installation Help"
 msgstr "Bantuan Pemasangan"
 
-#: index.html:57
+#: index.html57, 109
 msgid "Recommendations"
 msgstr "Saranan"
 
@@ -70,42 +70,42 @@ msgstr "Pasang Perisian"
 msgid "Budgie Applets"
 msgstr "Aplet Budgie"
 
-#: index.html:109
+#: index.html:110
 msgid "Software Center"
 msgstr "Pusat Perisian"
 
-#: index.html:110
+#: index.html:111
 msgid "Snap Apps"
 msgstr "Apl Snap"
 
-#: index.html:111
+#: index.html:112
 msgid "Flatpak Apps"
 msgstr "Apl Flatpak"
 
-#: index.html:117
+#: index.html:118
 msgid "Default Settings"
 msgstr "Tetapan Lalai"
 
-#: index.html:127
+#: index.html:128
 msgid "Get Support:"
 msgstr "Dapatkan Sokongan:"
 
-#: index.html:139
+#: index.html:140
 msgid "G+ Community"
 msgstr "Komuniti G+"
 
-#: index.html:142
+#: index.html:143
 msgid "G+ Page"
 msgstr "Laman G+"
 
-#: index.html:151
+#: index.html:152
 msgid "Facebook Group"
 msgstr "Kumpulan Facebook"
 
-#: index.html:154
+#: index.html:155
 msgid "Facebook Page"
 msgstr "Laman Facebook"
 
-#: index.html:162
+#: index.html:163
 msgid "Reddit"
 msgstr "Reddit"

@@ -20,7 +20,7 @@ msgstr "Rekomendacijos"
 
 #: recommendations.html:20
 msgid "Backports repository"
-msgstr ""
+msgstr "Naujų versijų paketų saugykla"
 
 #: recommendations.html:22
 msgid ""
@@ -28,6 +28,9 @@ msgid ""
 "associated packages, we recommend to enable the <span name=\"distro-"
 "name\"></span> backports repository."
 msgstr ""
+"Tam, kad būtų pateiktos naujausios Budgie darbalaukio ir kitų susijusių "
+"paketų versijos, siūlome įjungti <span name=\"distro-name\"></span> naujų "
+"versijų paketų saugyklą."
 
 #: recommendations.html:24
 msgid "Repository is installed"
@@ -35,7 +38,7 @@ msgstr "Saugykla yra įdiegta"
 
 #: recommendations.html:24
 msgid "Enable <span name=\"distro-name\"></span> backports repository"
-msgstr ""
+msgstr "Įjungti <span name=\"distro-name\"></span> naujų versijų paketų saugyklą"
 
 #: recommendations.html25, 70, 87, 100, 117, 132
 msgid "Applying Changes..."

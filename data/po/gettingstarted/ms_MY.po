@@ -1,12 +1,12 @@
 # Translators:
 # abuyop <abuyop@gmail.com>, 2017
-# Dxnxsh Fxrhxn <danishfarhan700@gmail.com>, 2018
+# DxnxshFxrhxn <danishfarhan700@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: Budgie Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Dxnxsh Fxrhxn <danishfarhan700@gmail.com>, 2018\n"
+"Last-Translator: DxnxshFxrhxn <danishfarhan700@gmail.com>, 2018\n"
 "Language-Team: Malay (Malaysia) (https://www.transifex.com/ubuntu-budgie/teams/72251/ms_MY/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1177,7 +1177,7 @@ msgstr "Pintasan ini digunapakai dalam kebanyakan aplikasi."
 
 #: gettingstarted.html:936
 msgid "Toggle Tilix Quake Mode"
-msgstr ""
+msgstr "Togol Mod Tilix Quake"
 
 #: gettingstarted.html940, 948, 956, 964, 972, 980, 988, 996, 1004, 1012,
 #: 1020, 1028, 1036, 1044, 1052, 1089, 1107, 1145, 1155, 1165, 1177
@@ -1246,7 +1246,7 @@ msgstr "Shift"
 
 #: gettingstarted.html:1058
 msgid "Redo a change that you just undid"
-msgstr ""
+msgstr "Buat semula perubahan yang anda baru sahaja undur"
 
 #: gettingstarted.html:1064
 msgid "Toggle the current application between full-screen and windowed"

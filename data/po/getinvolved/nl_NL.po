@@ -1,0 +1,219 @@
+# Translators:
+# Machiel Heinen, 2017
+# Ronald van Zuijlen, 2017
+# F Ratering <franck.ratering@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: F Ratering <franck.ratering@gmail.com>, 2018\n"
+"Language-Team: Dutch (Netherlands) (https://www.transifex.com/ubuntu-budgie/teams/72251/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: getinvolved.html:13
+msgid "Get Involved"
+msgstr "Help mee"
+
+#: getinvolved.html:17
+msgid "Thanks for Your Support"
+msgstr "Bedankt voor jullie support"
+
+#: getinvolved.html:18
+msgid ""
+"<span name=\"distro-name\"></span> receives a great deal of support from its"
+" community of users and we would like to thank each and every contributor "
+"for participating. We are growing at a steady pace and our distribution is "
+"getting better every day thanks to you."
+msgstr ""
+"<span name=\"distro-name\"></span> ontvangt veel ondersteuning van de "
+"gebruikers gemeenschap en we willen elke bijdrage en deelnemer bedanken. We "
+"groeien gestaag en onze distributie word met de dag beter dankzij jullie."
+
+#: getinvolved.html:19
+msgid ""
+"It is very easy to make a difference. Depending on your skill set, your "
+"availability you can help <span name=\"distro-name\"></span> in one or more "
+"of the following ways:"
+msgstr ""
+"Het is gemakkelijk een verschil te maken. Afhankelijk van je vaardigheden, "
+"kan je <span name=\"distro-name\"></span> op één of meerdere van de volgende"
+" manieren helpen:"
+
+#: getinvolved.html:23
+msgid "Support &amp; Promotion"
+msgstr "Ondersteuning &amp; Promotie"
+
+#: getinvolved.html:24
+msgid "Spreading the word"
+msgstr "Het woord verspreiden"
+
+#: getinvolved.html:25
+msgid ""
+"If you like <span name=\"distro-name\"></span>, let people know. Blog, add "
+"comments in forums and talk about it with your friends and the people around"
+" you."
+msgstr ""
+"Bevalt <span name=\"distro-name\"></span> goed, laat het mensen weten. Blog,"
+" laat berichten achter in fora en praat met vrienden en de mensen om je "
+"heen."
+
+#: getinvolved.html:27
+msgid "Joining the Community"
+msgstr "Aansluiten bij de gemeenschap"
+
+#: getinvolved.html:28
+msgid ""
+"<span name=\"distro-name\"></span> isn't just an operating system, it's also"
+" a dynamic community of people who enjoy, gather, and interact with a free "
+"and open project. Whether it's by helping others sort through issues, by "
+"making them feel welcome, or simply by meeting and talking to other <span "
+"name=\"distro-name\"></span> users, we recommend you join the community and "
+"participate in making <span name=\"distro-name\"></span> better."
+msgstr ""
+"<span name=\"distro-name\"></span> is niet alleen een besturingssysteem, het"
+" is ook een dynamische gemeenschap van mensen die genieten, verzamelen en "
+"gebruik maken van een vrij en open project. Of het nu is met anderen helpen "
+"met problemen, ze welkom heten, of simpelweg ontmoeten en praten met andere "
+"<span name=\"distro-name\"></span> gebruikers, we raden aan toe te treden en"
+" deel te nemen aan de gemeenschap om <span name=\"distro-name\"></span> te "
+"verbeteren."
+
+#: getinvolved.html:30
+msgid "Helping others"
+msgstr "Help anderen"
+
+#: getinvolved.html:31
+msgid ""
+"If you have some spare time and you're willing to help other users with "
+"technical problems, you should seriously consider reading the forums and/or "
+"joining the community chat-room and helping other <span name=\"distro-"
+"name\"></span> users solve the problems you know how to fix."
+msgstr ""
+"Als je wat vrije tijd hebt en bereid bent om andere gebruikers met "
+"technische problemen te helpen, kun je  overwegen om de forums te lezen "
+"en/of mee te doen aan de community-chatroom en andere <span name=\"distro-"
+"name\"></span> gebruikers te helpen de problemen op te lossen waarvan je de "
+"oplossing weet. "
+
+#: getinvolved.html:35
+msgid "Project contributions"
+msgstr "Projectbijdragen"
+
+#: getinvolved.html:36
+msgid "Bug reports"
+msgstr "Bug reports"
+
+#: getinvolved.html:37
+msgid ""
+"If you've noticed something that doesn't work properly while using <span "
+"name=\"distro-name\"></span>, let us know. The problem you have discovered "
+"is likely to affect others as well; The sooner we know about it, the sooner "
+"we're able to fix it."
+msgstr ""
+"Als je iets hebt opgemerkt dat tijdens het gebruik van <span name=\"distro-"
+"name\"></span> niet correct werkt, laat het ons weten. Het probleem dat je "
+"hebt ontdekt, zal waarschijnlijk ook anderen beïnvloeden. Hoe sneller we het"
+" weten, hoe sneller we het kunnen oplossen."
+
+#: getinvolved.html:39
+msgid "New ideas"
+msgstr "Nieuwe ideeën"
+
+#: getinvolved.html:40
+msgid ""
+"The vast majority of improvements included in each release come from the "
+"community. If there's something that you think is missing or that could be "
+"done better, please tell us. Whether it's the inclusion of a missing "
+"software application that should be part of a stock installation or if you "
+"have any other ideas on how to make <span name=\"distro-name\"></span> "
+"better, we're always interested in hearing them."
+msgstr ""
+"Het overgrote deel van de verbeteringen in elke release komt van de "
+"community. Als er iets is waarvan je denkt dat het ontbreekt of dat beter "
+"kan, laat het ons weten. Of het nu gaat om het opnemen van een ontbrekende "
+"softwaretoepassing die deel moet uitmaken van een standaard installatie of "
+"om andere ideeën om <span name=\"distro-name\"></span> beter te maken, we "
+"horen het graag."
+
+#: getinvolved.html:42
+msgid "Artwork"
+msgstr "Grafisch ontwerp"
+
+#: getinvolved.html:43
+msgid ""
+"If you are talented in graphic design and willing to contribute to the "
+"project, please send us your creations and artwork. Whether it's a simple "
+"wallpaper, an icon set, a splash screen, or even a new logo, we're always "
+"interested to hear from you about new artwork."
+msgstr ""
+"Als je getalenteerd bent in grafisch ontwerp en bereid bent om bij te dragen"
+" aan het project, stuur ons dan je ontwerpen. Of het nu gaat om een "
+"eenvoudige achtergrond, een pictogrammenset, een opstartscherm of zelfs een "
+"nieuw logo, we zijn altijd geïnteresseerd in nieuwe illustraties."
+
+#: getinvolved.html:45
+msgid "Code"
+msgstr "Code"
+
+#: getinvolved.html:46
+msgid ""
+"Most of our development is done in GTK+3, C++, Vala, Python and HTML5/CSS. "
+"We also use Git for version control and .deb for packaging. If you're "
+"comfortable with any of these technologies, don't hesitate to have a look at"
+" the code. If you think you can improve our applications or write new ones "
+"don't hesitate to suggest patches or to fork our git repositories."
+msgstr ""
+"Het grootste deel van onze ontwikkeling wordt gedaan in GTK+3, C++, Vala, "
+"Python en HTML5/CSS. We gebruiken Git voor versiebeheer en .deb voor het "
+"verpakken. Als je vertrouwd bent met een van deze technologieën, aarzel dan "
+"niet om de code te bekijken. Als je denkt dat je onze applicaties kunt "
+"verbeteren of nieuwe kunt schrijven, maak dan gebruik van onze git-"
+"repositories en/of om patches voor te stellen. "
+
+#: getinvolved.html:47
+msgid ""
+"Upstream to us is budgie-desktop. Created by Solus, they are looking for C "
+"developers - so please help if you can."
+msgstr ""
+"Upstream wordt de budgie-desktop gemaakt door Solus. Ze zijn op zoek naar "
+"C-ontwikkelaars - dus help alsjeblieft als je dat kunt."
+
+#: getinvolved.html:51
+msgid ""
+"It appears you are not connected to the Internet. Please check your "
+"connection to access this content."
+msgstr ""
+"Het lijkt er op dat je niet verbonden bent met het internet. Check je "
+"verbinding om toegang te krijgen tot deze content."
+
+#: getinvolved.html:52
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Sorry, Welcome kon geen verbinding maken."
+
+#: getinvolved.html:53
+msgid "Retry"
+msgstr "Opnieuw proberen"
+
+#: getinvolved.html:76
+msgid "Budgie Desktop GitHub"
+msgstr "Budgie Desktop GitHub"
+
+#: getinvolved.html:83
+msgid ""
+"Also, we have published a complete list of available opportunities on our "
+"website. Please feel free to visit our website and find out in which way you"
+" can contribute to our mission."
+msgstr ""
+"We hebben een volledige lijst met beschikbare vacatures op onze website "
+"gepubliceerd. Aarzel niet om onze website te bezoeken om te ontdekken op "
+"welke manier je een bijdrage kunt leveren aan onze missie."
+
+#: getinvolved.html:88
+msgid "Opportunities"
+msgstr "Vacatures"
